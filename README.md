@@ -1,2 +1,2 @@
-# CC_DB
-1er CC en langage C
+# class_db
+A simple skeleton code in C for a database
